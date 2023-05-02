@@ -13,3 +13,8 @@
 
 <h4>Контакты:</h4>
 <a href="https://t.me/usman_tashtamirov" rel="nofollow"><img src="https://camo.githubusercontent.com/31488e2c24f52274e310f551dda440a0e2d39634b391c1093d2f9b64c2110f8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3131313131313f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;"></a>
+<a href="https://wa.me/79911121929" rel="nofollow"><img src="https://camo.githubusercontent.com/060a099f7027697ebc01fde0770b93c9a9bda3f1fbd89e9b12cd398f03fe2cae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686174736170702d3131313131313f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070" alt="whatsapp" data-canonical-src="https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&amp;logo=whatsapp" style="max-width: 100%;"></a>
+
+
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad3476771df5f3ce39ac17ef4cccc0d58df854724fb679502ef5739749139d90/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f414444494334322f6261646765732f6c61726765"><img src="https://camo.githubusercontent.com/ad3476771df5f3ce39ac17ef4cccc0d58df854724fb679502ef5739749139d90/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f414444494334322f6261646765732f6c61726765" width="600" data-canonical-src="https://www.codewars.com/users/tssunnami/badges/large" style="max-width: 100%;"></a>
