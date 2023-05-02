@@ -1,4 +1,4 @@
-Стэк технологий, с которыми работаю:
+<h3>Стэк технологий, с которыми работаю:</h3>
 
 <!--
 **tashtamirov/tashtamirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
