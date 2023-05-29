@@ -14,8 +14,8 @@
    <li>React JS - Redux</li>
    <li>Redux Thunk - Redux/Toolkit</li>
    <li>Git - Webpack</li>
-   <li>ESLint - Prettier</li>
    <li>Bootstrap - Material UI</li>
+   <li>ESLint - Prettier</li>
   <li>NodeJS - Express - MongoDB</li>
 </ul>
 
