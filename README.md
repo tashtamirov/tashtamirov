@@ -12,7 +12,7 @@
 <ul>
    <li>HTML - CSS - SCSS</li>
     <li>JavaScript(ES6+) - TypeScript</li>
-   <li>Next JS - React JS - Redux</li>
+   <li>NextJS - React - Redux</li>
    <li>Redux Thunk - Redux/Toolkit</li>
    <li>Git - Webpack</li>
    <li>Bootstrap - Material UI</li>
