@@ -17,7 +17,7 @@
    <li>Git - Webpack</li>
    <li>Bootstrap - Material UI</li>
    <li>ESLint - Prettier</li>
-   <li>NestJS - NodeJS - MongoDB</li>
+   <li>NodeJS - MongoDB</li>
     <li>Express - Mongoose</li>
 </ul>
 
